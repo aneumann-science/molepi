@@ -1,0 +1,14 @@
+Package: molepi
+Type: Package
+Title: Tools for Molecular Epidemiology
+Version: 0.0.0.9000
+Date: 2015-10-26
+Authors@R: person("Alexander", "Neumann", email = "a.neumann@erasmusmc.nl",
+    role = c("aut", "cre"))
+Description: molepi is a collection of functions which could be useful
+    in molecular epidemiology, e.g. when analyzing genetic and epigenetic
+    information.
+Depends: R (>= 3.2.2)
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.0
